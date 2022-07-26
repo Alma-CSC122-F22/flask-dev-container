@@ -1,0 +1,22 @@
+{
+
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+      },
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.suggest.filterGraceful": true,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.suggest.showIcons": false,
+    "editor.hover.enabled": false,
+    "editor.hover.sticky": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": true,
+    "editor.tabCompletion": "on",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay",
+
+}
