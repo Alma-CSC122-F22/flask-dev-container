@@ -1,0 +1,2 @@
+# this is the basic set of requirements. see the requirements folder for additional options
+-r requirements/prod.txt
